@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ASUS_I005_1
-PRODUCT_NAME := omni_ASUS_I005_1
+PRODUCT_NAME := twrp_I005D
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_I005D
 PRODUCT_MANUFACTURER := asus

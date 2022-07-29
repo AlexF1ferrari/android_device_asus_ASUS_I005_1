@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ASUS_I005_1.mk
+    $(LOCAL_DIR)/twrp_I005_1.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_I005_1-user \

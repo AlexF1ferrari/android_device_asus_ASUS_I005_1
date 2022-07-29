@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/asus/ASUS_I005_1
+DEVICE_PATH := device/asus/I005_1
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -26,7 +26,7 @@ TARGET_BOARD_SUFFIX := _64
 TARGET_USES_64_BIT_BINDER := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := I005D
+TARGET_OTA_ASSERT_DEVICE := I005_1
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true

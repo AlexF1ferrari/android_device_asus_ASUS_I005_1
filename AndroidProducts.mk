@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_ASUS_I005_1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ASUS_I005_1-user \
-    omni_ASUS_I005_1-userdebug \
-    omni_ASUS_I005_1-eng
+    twrp_I005_1-user \
+    twrp_I005_1-userdebug \
+    twrp_I005_1-eng
